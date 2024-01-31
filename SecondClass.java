@@ -3,5 +3,6 @@ public class SecondClass {
 
     private void Foo(){
         MyClass pointer = myClass;
+        pointer.Bar();
     }
 }
