@@ -1,3 +1,3 @@
 public class SecondClass {
-    private MyClass myField;
+    private MyClass myClass;
 }
