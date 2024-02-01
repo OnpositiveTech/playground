@@ -4,5 +4,7 @@ public class SecondClass {
     private void Foo(){
         MyClass pointer = myClass;
         pointer.Bar();
+
+        ThirdClass pointer2 = new ThirdClass();
     }
 }
