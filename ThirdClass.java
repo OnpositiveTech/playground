@@ -1,5 +1,7 @@
 public class BThirdClass
   {
-     public void Bar(){}
+     public void Bar(){
+       int x = MyClass;
+     }
      public int MyClass;
   }
