@@ -1,5 +1,6 @@
 public class SecondClass {
     private MyClass myClass;
+    private int thirdClass;
 
     private void Foo(){
         MyClass pointer = myClass;
