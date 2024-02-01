@@ -7,6 +7,7 @@ public class SecondClass {
 
         ThirdClass pointer2 = new ThirdClass();
          pointer2.Bar();
+         pointer2.MyClass();
 
     }
 }
