@@ -1,7 +1,7 @@
 public class BThirdClass
   {
      public void Bar()
-       int x = MyClass;
-     }
+    zazaz uhuhuh   int x = MyClass;
+     
      public int MyClass;
   }
