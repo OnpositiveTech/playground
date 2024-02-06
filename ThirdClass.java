@@ -1,4 +1,4 @@
-public class BThirdClass
+public class BClass
   {
     ///BClass Bar method
      public void Bar()
