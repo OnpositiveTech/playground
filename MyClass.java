@@ -5,5 +5,7 @@ public class MyClass {
     public void Bar(){}
 
     /// Forked Changes
-    public void Foo(){}
+    public void Foo(){
+        int MyClass = 34;
+    }
 }
