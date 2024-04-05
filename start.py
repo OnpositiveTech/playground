@@ -6,5 +6,5 @@ class NotSession:
   def get(self, y):
     return 1
 
-session = Session()
-resutl = session.get(123)
+Session = Session()
+resutl = Session.get(123)
