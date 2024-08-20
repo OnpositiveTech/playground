@@ -8,4 +8,6 @@ public class MyClass {
     public void Foo(){
         int MyClass = 34;
     }
+
+    public voif Bars(){}
 }
