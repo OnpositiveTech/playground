@@ -3,6 +3,8 @@ import java.security.NoSuchAlgorithmException;
 import java.security.NoSuchAlgorithmException;
 
 public class Main {
+    private MyClass myClass;
+    
     public static void main(String[] args) {
         System.out.println("Hello world!");
         System.out.println("Hello world!");
