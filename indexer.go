@@ -23,3 +23,10 @@ type inverseIndexer struct {
 	storage interfaces.InverseIndexStorage
 	pool    pipeline.Pool
 }
+
+
+type InverseProtoBuilderService interface {
+	BuildInverseIndexProto(
+		ctx context.Context, values []IrIndexResult, changes entities.FileChanges,
+	) (InverseIndexProto, error)
+}
