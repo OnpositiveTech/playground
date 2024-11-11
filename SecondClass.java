@@ -1,4 +1,4 @@
-public class SecondClass {
+public class SecClass {
     private MyClass myClass;
     private int thirdClass;
 
